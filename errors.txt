@@ -1,0 +1,8 @@
+Windows 64
+
+Error 1:
+
+Python 3.8 --> ERROR: pyscreeze 0.1.25 has requirement Pillow>=6.2.1, but you'll have pillow 6.0.0 which is incompatible.
+Python 3.7 works fine though
+
+
