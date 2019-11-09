@@ -4,4 +4,6 @@ venv/
 9 RW Files/multi-clipboard/*.bak
 9 RW Files/multi-clipboard/*.dat
 9 RW Files/multi-clipboard/*.dir
+
 10 Organizing Files/renameDates/euroFiles
+10 Organizing Files/backupToZip/*.zip
