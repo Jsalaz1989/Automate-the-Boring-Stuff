@@ -40,7 +40,9 @@ for amerFilename in os.listdir(amerFolder):
     absWorkingDir = os.path.abspath('.')
     amerFilename = os.path.join(absWorkingDir, amerFolder, amerFilename)
     euroFilename = os.path.join(absWorkingDir, euroFolder, euroFilename)
-    
+
+    os.makedirs(euroFolder, exist_ok=True)
+
     # Rename the files.
     #print(f'Renaming "{amerFilename}" to "{euroFilename}"...')
     #shutil.move(amerFilename, euroFilename) # uncomment after testing
