@@ -7,3 +7,5 @@ venv/
 
 10 Organizing Files/renameDates/euroFiles
 10 Organizing Files/backupToZip/*.zip
+
+13 Excel/readCensusExcel/census2010.py
