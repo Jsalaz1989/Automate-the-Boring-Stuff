@@ -12,3 +12,8 @@ venv/
 13 Excel/updateProduce/updatedProduceSales.xlsx
 
 14 Google Sheets/combinePdfs/allminutes.pdf
+
+15 Word and PDF/__pycache__
+15 Word and PDF/helloworld.docx
+15 Word and PDF/demo.docx
+15 Word and PDF/demo.pdf
