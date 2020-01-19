@@ -1,4 +1,5 @@
 venv/
+*.pyc
 
 9 RW Files/randomQuizGenerator/quizzes
 9 RW Files/mcb/*.bak
@@ -21,3 +22,4 @@ venv/
 16 CSV and JSON/removeCsvHeader/headerRemoved
 
 17 Time/threadedDownloadXkcd/xkcd
+17 Time/token-gmail.json
